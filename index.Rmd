@@ -1,0 +1,34 @@
+--- 
+title: "AWS Cloud Computing"
+author: "Harvard Biostatistics"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+# description: |
+#   This is a minimal example of using the bookdown package to write a book.
+#   The HTML output format for this example is bookdown::gitbook,
+#   set in the _output.yml file.
+# link-citations: yes
+# github-repo: rstudio/bookdown-demo
+---
+
+
+# Preface
+
+This site aims to provide tutorials of cloud computing with Amazon Web Services (AWS). The focus is on large-scale computing for biomedical big data analytics.
+
+![aws-health](images/aws-health.png)
+https://aws.amazon.com/health/
+
+- [How to run RStudio on AWS in under 3 minutes for free](https://towardsdatascience.com/how-to-run-rstudio-on-aws-in-under-3-minutes-for-free-65f8d0b6ccda)
+
+- [Docker Containers for the R Environment](https://www.rocker-project.org/)
+
+- [Scaling R and RStudio](https://support.rstudio.com/hc/en-us/articles/236226087-Scaling-R-and-RStudio)
+
+- [Using sparklyr with an Apache Spark cluster](https://spark.rstudio.com/deployment/yarn-cluster-emr.html)
+
+- [Mastering Spark with R](https://therinspark.com/)

@@ -1,0 +1,10 @@
+preface
+introduction-to-cloud-computing
+amazon-web-services
+microsoft-azure
+google-cloud-platform
+elastic-compute-cloud-ec2
+simple-storage-service-s3
+relational-database-service-rds
+elastic-mapreduce-emr
+machine-learning
