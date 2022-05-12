@@ -4,6 +4,7 @@ author: "Harvard Biostatistics"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+bibliography: []
 # bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
@@ -15,13 +16,9 @@ documentclass: book
 # github-repo: rstudio/bookdown-demo
 ---
 
-
-# Preface
+# Introduction
 
 This site aims to provide tutorials of cloud computing with Amazon Web Services (AWS). The focus is on large-scale computing for biomedical big data analytics.
-
-![aws-health](images/aws-health.png)
-https://aws.amazon.com/health/
 
 - [How to run RStudio on AWS in under 3 minutes for free](https://towardsdatascience.com/how-to-run-rstudio-on-aws-in-under-3-minutes-for-free-65f8d0b6ccda)
 
@@ -32,3 +29,9 @@ https://aws.amazon.com/health/
 - [Using sparklyr with an Apache Spark cluster](https://spark.rstudio.com/deployment/yarn-cluster-emr.html)
 
 - [Mastering Spark with R](https://therinspark.com/)
+
+## [Amazon Web Services](https://aws.amazon.com)
+
+## [Microsoft Azure](https://azure.microsoft.com)
+
+## [Google Cloud Platform](https://cloud.google.com)

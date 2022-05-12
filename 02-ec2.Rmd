@@ -1,5 +1,0 @@
-# Elastic Compute Cloud (EC2)
-
-Secure and resizable compute capacity for virtually any workload
-
-https://aws.amazon.com/ec2/

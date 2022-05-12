@@ -1,5 +1,0 @@
-# Elastic MapReduce (EMR)
-
-Easily run and scale Apache Spark, Hive, Presto, and other big data workloads
-
-https://aws.amazon.com/emr/
