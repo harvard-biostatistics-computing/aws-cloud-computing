@@ -4,9 +4,11 @@
 knitr::opts_chunk$set(eval = FALSE)
 ```
 
-[Getting Started with Amazon EC2](https://aws.amazon.com/ec2/getting-started/)
+Amazon Elastic Compute Cloud (EC2) offers a scalable compute platform in the cloud for a wide range of applications, including machine learning, big data analytics, and high performance computing (HPC).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JcsxpTFQ9pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this chapter, we provide instructions on installing [RStudio](https://www.rstudio.com/products/rstudio/), [Shiny](https://shiny.rstudio.com/), and [Jupyter](https://jupyter.org/) servers via [Docker](https://www.docker.com/) on Amazon EC2. Running these Docker containers in the cloud enables statisticians and data scientists to perform compute-intensive tasks and build scalable data products with their preferred programming languages (e.g., R, Python, Julia). 
 
 ## Docker
 
