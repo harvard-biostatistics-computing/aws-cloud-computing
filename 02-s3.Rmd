@@ -1,1 +1,0 @@
-# [Simple Storage Service](https://aws.amazon.com/s3/)
