@@ -1,0 +1,3 @@
+# [Elastic MapReduce](https://aws.amazon.com/emr/)
+
+Content to be added. We welcome volunteers to help to add useful resources.
